@@ -33,7 +33,7 @@ export function ChatGrupal() {
           <input
             type="text"
             className="form-control"
-            placeholder="Escribe uin mensaje para el anfitrion"
+            placeholder="Escribe un mensaje para el anfitrion"
             aria-label="Username"
             aria-describedby="basic-addon1"
           />

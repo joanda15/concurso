@@ -3,7 +3,7 @@ import { NavFooter } from "../componentes/nav-footer";
 
 export function UsuarioEnsenaBienvenidaPagina() {
   return (
-    <div className="container">
+    <div className="container mb-3">
         {/* Pagina usuario ensena bienvenida */}
       <div className="row">
         <div className="col-7">

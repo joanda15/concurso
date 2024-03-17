@@ -3,10 +3,8 @@ import '../../index.css';
 export function BuscarVideos() {
   return (
     <div className="container border-primary rounded-5 p-3">
-      <div class="input-group mb-3">
-        <span class="input-group-text" id="basic-addon1">
-          @
-        </span>
+      <div className="input-group mb-3">
+
         <input
           type="search"
           className="form-control rounded-pill"
